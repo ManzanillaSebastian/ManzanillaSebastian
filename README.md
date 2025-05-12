@@ -12,9 +12,9 @@ proyectos y mis intereses.
 * Ocupación: [Tu ocupación]
 * Lugar de residencia: [Tu lugar de residencia]
 * Sitio web: [Tu sitio web]
-* 
+
 ## Proyectos
 * [Lista de tus proyectos]
-* 
+
 ## Intereses
 * [Lista de tus intereses]
