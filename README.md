@@ -6,15 +6,26 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Aptitudes](#aptitudes)
 
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Sebastián Manzanilla Coelho.
+* Ocupación: Estudiante.
+* Lugar de residencia: Guayaquil, Ecuador.
+* Lugar de Nacimiento: Caracas, Venezuela.
+* Correo institucional: sebmanza@espol.edu.ec
 
 ## Proyectos
-* [Lista de tus proyectos]
+* Programa de Administración de Ferias.
+* Programa de Generación de Mapas Topográficos basados en Figuras Cónicas.
+* Sumador Electrónico-lógico de 2 numeros Binarios.
 
 ## Intereses
-* [Lista de tus intereses]
+* Programación.
+* Videojuegos.
+* Música.
+* Fútbol
+
+## Aptitudes
+* Lenguajes de programación: Java, Python, HTML.
+* Dominio del idioma inglés: Nivel C1.
