@@ -6,7 +6,7 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-* 
+
 ## Información personal
 * Nombre: [Tu nombre]
 * Ocupación: [Tu ocupación]
